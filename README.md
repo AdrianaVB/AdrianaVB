@@ -9,7 +9,7 @@
   ```javascript
 const adry = {
   pronouns: "she" | "her",
-  code: [JavaScript, HTML, Python, Java],
+  code: [JavaScript, Html, Python, Java],
   tools: [NetBeans, VisualStudioCode, PyCharm, SublimeText, PSeInt, GitBash, MySQL],
  
 future challenge: "techConstruction"

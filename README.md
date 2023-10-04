@@ -1,4 +1,4 @@
-<h2> Hi! </h2>
+<h2> Hi! </h2><img align='bottom' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGx2d2QwbnBnbTVlcHN1eXJvdDdwb2t3aG41dGhudmg1emZlZDh3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q7v3MbyqCPyzQWPFIr/giphy.gif"width="30">
 <p><em>I'm Adry Balmaceda!<img align='bottom' src="https://media.giphy.com/media/dECBf0xnwQKCPZOkiC/giphy.gif"width="30">
   </em></p>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnR5enEyd2F6bGZ6ZXY5YW4ydHl0eTRueDczMTh6ZXc2bGV5MjNpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy-downsized.gif" width="230">

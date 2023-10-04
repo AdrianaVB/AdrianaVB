@@ -2,7 +2,7 @@
 <p><em>I'm Adry Balmaceda!<img align='bottom' src="https://media.giphy.com/media/dECBf0xnwQKCPZOkiC/giphy.gif"width="30">
   </em></p>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnR5enEyd2F6bGZ6ZXY5YW4ydHl0eTRueDczMTh6ZXc2bGV5MjNpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy-downsized.gif" width="230">
-<p><em>Programming Tecnicatura Student at <a href="https://www.frsr.utn.edu.ar/">University UTN San Rafael of Mendoza</a>                                                                                                             
+<p><em>Programming Tecnicatura Student at <a href="https://www.frsr.utn.edu.ar/">University UTN San Rafael of Mendoza.</a>                                                                                                             
 </br>Project Manager wherever you are.<img align='bottom' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXR1MmV2ajFlNmhwdXR0Y2FreWxwYWR3NGxsNWJ4dG9mZXljeDlhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5nljVQFuaRdyM624EU/giphy.gif"width="30"> 
 </em></p>
 

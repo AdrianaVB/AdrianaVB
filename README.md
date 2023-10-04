@@ -1,4 +1,6 @@
-<h2> Hi! <img src="https://media.giphy.com/media/dECBf0xnwQKCPZOkiC/giphy.gif"width="50"> I'm Adry Balmaceda! </h2>
+<h2> Hi! </h2>
+<p><em>I'm Adry Balmaceda!<img src="https://media.giphy.com/media/dECBf0xnwQKCPZOkiC/giphy.gif"width="50">
+  </em></p>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnR5enEyd2F6bGZ6ZXY5YW4ydHl0eTRueDczMTh6ZXc2bGV5MjNpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy-downsized.gif" width="230">
 <p><em>Programming Tecnicatura Student at <a href="https://www.frsr.utn.edu.ar/">University UTN of Mendoza</a>
 </br>Project manager wherever you are.<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXR1MmV2ajFlNmhwdXR0Y2FreWxwYWR3NGxsNWJ4dG9mZXljeDlhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5nljVQFuaRdyM624EU/giphy.gif"width="30"> 

@@ -6,6 +6,8 @@
 </br>Project Manager wherever you are.<img align='bottom' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXR1MmV2ajFlNmhwdXR0Y2FreWxwYWR3NGxsNWJ4dG9mZXljeDlhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5nljVQFuaRdyM624EU/giphy.gif"width="30"> 
 </em></p>
 
+[![GitHub AdrianaVB](https://img.shields.io/github/followers/adrybalmaceda?label=follow&style=social)](https://github.com/AdrianaVB)
+
   ### More about me...
 
   ```javascript

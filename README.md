@@ -15,7 +15,7 @@ const adry = {
 future challenge: "techConstruction"
 }
 ```
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG92OWt4NHJmdnUzczhjMTdpemttYnVtZ3Jtc21wb3QweHBvOW9hdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ryRe2vuYIQ3RQ5eMtY/giphy.gif" width="100">
+<img align='center' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG92OWt4NHJmdnUzczhjMTdpemttYnVtZ3Jtc21wb3QweHBvOW9hdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ryRe2vuYIQ3RQ5eMtY/giphy.gif" width="100">
 <!--
 **AdrianaVB/AdrianaVB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -6,7 +6,7 @@
 </br>Project Manager wherever you are.<img align='bottom' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXR1MmV2ajFlNmhwdXR0Y2FreWxwYWR3NGxsNWJ4dG9mZXljeDlhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5nljVQFuaRdyM624EU/giphy.gif"width="30"> 
 </em></p>
 
-[![GitHub AdrianaVB](https://img.shields.io/github/followers/AdrianaVB?labelColor=hsl(198%2C%200%25%2C%20100%25)&color=hsl(48%2C%2094%25%2C%2057%25)
+[![GitHub AdrianaVB](https://img.shields.io/github/followers/AdrianaVB?labelColor=hsl(198%2C%200%25%2C%20100%25)&color=hsl(198%2C%20100%25%2C%2015%25)
 )](https://github.com/AdrianaVB)
 
   ### More about me...

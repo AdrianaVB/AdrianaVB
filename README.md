@@ -14,7 +14,7 @@
   ```javascript
 const adry = {
   pronouns: "she" | "her",
-  code: [JavaScript, Html, Python, Java],
+  code: [SQL, JavaScript, Html, Python, Java],
   tools: [NetBeans, VisualStudioCode, PyCharm, SublimeText, PSeInt, GitBash, MySQL],
  
 future challenge: "techConstruction"

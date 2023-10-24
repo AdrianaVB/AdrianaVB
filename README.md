@@ -7,7 +7,7 @@
 </em></p>
 
 [![GitHub AdrianaVB](https://img.shields.io/github/followers/AdrianaVB?label=follow&style=social
-)](https://github.com/AdrianaVB)
+)](https://github.com/AdrianaVB) 
 
   ### More about me...
 

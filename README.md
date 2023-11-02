@@ -2,7 +2,9 @@
 <p><em>I'm Adry Balmaceda!<img align='bottom' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajhlZGttdXYzdml3dGYzc2o0YnN1dGc0Y2RvbWUxa3UzcmRnZHR3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QTfX9Ejfra3ZmNxh6B/giphy.gif"width="30">
   </em></p>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnR5enEyd2F6bGZ6ZXY5YW4ydHl0eTRueDczMTh6ZXc2bGV5MjNpeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy-downsized.gif" width="230">
-<p><em>Programming Tecnicatura Student at <a href="https://www.frsr.utn.edu.ar/">University UTN San Rafael of Mendoza.</a>                                                                                                             
+<p><em>Programming Tecnicatura Student at <a href="https://www.frsr.utn.edu.ar/">University UTN San Rafael of Mendoza.</a> 
+<p><em>Junior Developer <a href="https://github.com/CodeStrong2023/">Develop2023.</a> 
+  
 </br>Project Manager wherever you are.<img align='bottom' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNoY3MxamJxY2o5c2k1Z2s5eXBodGVxMHNpcTBzaW44eGt6ZDI2bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5nljVQFuaRdyM624EU/giphy.gif"width="30"> 
 </em></p>
 

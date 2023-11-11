@@ -17,8 +17,8 @@ const adry = {
   code: [Sql, JavaScript, Html, Python, Java],
   tools: [NetBeans, VisualStudioCode, PyCharm, SublimeText, PSeInt, GitBash, MySQL],
 
-team: "Codipro"
 future challenge: "techConstruction"
+team: "Codipro"
 }
 ```
 <img align='center' src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGIyNng2Y3dyMHNtNmNqZ2toanZkcmFyM2ZmZGJvMmg0enZvdDRsMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ryRe2vuYIQ3RQ5eMtY/giphy.gif" width="100"> <em><b>Coding and Building I walk!</b> :)</em>

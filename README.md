@@ -17,7 +17,7 @@ const adry = {
   code: [Sql, JavaScript, Html, Python, Java],
   tools: [NetBeans, VisualStudioCode, PyCharm, SublimeText, PSeInt, GitBash, MySQL],
 
-team: Codipro
+team: "Codipro"
 future challenge: "techConstruction"
 }
 ```

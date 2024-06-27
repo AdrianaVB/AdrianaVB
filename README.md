@@ -15,7 +15,7 @@
 const adry = {
   pronouns: "she" | "her",
   code: [Sql, JavaScript, Html, Python, Java],
-  tools: [NetBeans, VisualStudioCode, PyCharm, SublimeText, PSeInt, GitBash, MySQL],
+  tools: [NetBeans, VisualStudioCode, PyCharm, SublimeText, PSeInt, GitBash, MySQL, MongoDB],
 
 team: "CodiPro"
 future challenge: "techConstruction"
